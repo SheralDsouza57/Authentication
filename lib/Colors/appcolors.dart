@@ -7,4 +7,5 @@ class AppColors {
   static const red = Color(0xFFE86969);
   static const royalBlue = Color(0xFF0E64D2);
   static const darkBlue = Color(0xFF160062);
+  static const davisGrey = Color(0xFFB4C6D4);
 }
